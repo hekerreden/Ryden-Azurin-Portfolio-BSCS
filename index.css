@@ -238,7 +238,7 @@ nav ul li a:hover::after{
     flex-direction: column;
     padding: 0 40px;
     text-align: center;
-    font-size: 17px;
+    font-size: 15px;
     transition: height 0.5s;
 }
 .layer h3{
@@ -251,15 +251,15 @@ nav ul li a:hover::after{
     text-decoration: none;
     line-height: 60px;
     background: #fff;
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .layer a svg{
-    width: 35px;
+    width: 30px;
 
 }
 .work:hover img{
